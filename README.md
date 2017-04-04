@@ -19,4 +19,8 @@ chrome > extentsion > load unpacked extension > ./ext
 # demo page
 click extension icon you will see it
 
+# License
+
+MIT
+
 
