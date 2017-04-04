@@ -1,0 +1,26 @@
+{
+    "manifest_version": 2,
+
+    "name": "Fangtang Chrome Starter Kit",
+    "description": "Starter Kit for chrome extension based on Vue2 and ElementUI ",
+    "version": "0.8",
+
+    "permissions": [
+        "http://*/*","https://*/*",
+        "tabs",
+        "notifications",
+        "alarms"
+    ],
+    "browser_action": {
+    "default_icon": "logo.png"
+    }
+    ,
+    "background": 
+    {
+        "scripts": ["background.js"]
+    },
+    "web_accessible_resources": [
+        "logo.png"
+    ]
+    
+}
