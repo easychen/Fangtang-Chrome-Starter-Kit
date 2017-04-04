@@ -1,6 +1,4 @@
-# wecat
-
-> weibo anlysis tools
+# Fangtang-Chrome-Starter-Kit
 
 ## Build Setup
 
